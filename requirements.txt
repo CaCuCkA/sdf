@@ -1,0 +1,10 @@
+numpy
+pandas
+PyMCubes
+pysdf
+scikit_learn
+setuptools
+torch
+torch_ema
+tqdm
+trimesh
